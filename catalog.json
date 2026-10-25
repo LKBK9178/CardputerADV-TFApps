@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "source": "github",
+  "repo": "LKBK9178/CardputerADV-TFApps",
+  "apps": [
+    {
+      "id": "TETRIS",
+      "name": "TETRIS",
+      "type": "游戏",
+      "description": "经典俄罗斯方块",
+      "canOpenFiles": false,
+      "folder": "",
+      "binPath": "APPS/TETRIS/app.bin",
+      "iconPath": "APPS/TETRIS/icon.raw",
+      "size": 403056,
+      "wadPath": ""
+    },
+    {
+      "id": "G2048",
+      "name": "G2048",
+      "type": "游戏",
+      "description": "数字合并 2048",
+      "canOpenFiles": false,
+      "folder": "",
+      "binPath": "APPS/G2048/app.bin",
+      "iconPath": "APPS/G2048/icon.raw",
+      "size": 403248,
+      "wadPath": ""
+    },
+    {
+      "id": "BREAKOUT",
+      "name": "BREAKOUT",
+      "type": "游戏",
+      "description": "打砖块 Breakout",
+      "canOpenFiles": false,
+      "folder": "",
+      "binPath": "APPS/BREAKOUT/app.bin",
+      "iconPath": "APPS/BREAKOUT/icon.raw",
+      "size": 403248,
+      "wadPath": ""
+    },
+    {
+      "id": "SHOOTER",
+      "name": "SHOOTER",
+      "type": "游戏",
+      "description": "射击小游戏",
+      "canOpenFiles": false,
+      "folder": "",
+      "binPath": "APPS/SHOOTER/app.bin",
+      "iconPath": "APPS/SHOOTER/icon.raw",
+      "size": 403248,
+      "wadPath": ""
+    },
+    {
+      "id": "SNAKE",
+      "name": "SNAKE",
+      "type": "游戏",
+      "description": "贪吃蛇",
+      "canOpenFiles": false,
+      "folder": "",
+      "binPath": "APPS/SNAKE/app.bin",
+      "iconPath": "APPS/SNAKE/icon.raw",
+      "size": 402560,
+      "wadPath": ""
+    },
+    {
+      "id": "AUDIO",
+      "name": "AUDIO",
+      "type": "媒体",
+      "description": "音视频解码播放器（可开文件）",
+      "canOpenFiles": true,
+      "folder": "AUDIO",
+      "binPath": "APPS/AUDIO/app.bin",
+      "iconPath": "APPS/AUDIO/icon.raw",
+      "size": 1161552,
+      "wadPath": ""
+    },
+    {
+      "id": "DOOM",
+      "name": "DOOM",
+      "type": "游戏",
+      "description": "毁灭战士 DOOM（ESP-NOW 联机预留）",
+      "canOpenFiles": false,
+      "folder": "",
+      "binPath": "APPS/DOOM/app.bin",
+      "iconPath": "APPS/DOOM/icon.raw",
+      "size": 880576,
+      "wadPath": "APPS/DOOM/DOOM.WAD"
+    }
+  ]
+}
