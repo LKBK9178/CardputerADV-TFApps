@@ -1,5 +1,5 @@
 {
-    "version":  1,
+    "version":  2,
     "source":  "github",
     "repo":  "LKBK9178/CardputerADV-TFApps",
     "apps":  [
@@ -13,6 +13,7 @@
                      "binPath":  "APPS/TETRIS/app.bin",
                      "iconPath":  "APPS/TETRIS/icon.raw",
                      "size":  403056,
+                     "version":  "v1.0.0",
                      "wadPath":  ""
                  },
                  {
@@ -25,6 +26,7 @@
                      "binPath":  "APPS/G2048/app.bin",
                      "iconPath":  "APPS/G2048/icon.raw",
                      "size":  403248,
+                     "version":  "v1.0.0",
                      "wadPath":  ""
                  },
                  {
@@ -37,6 +39,7 @@
                      "binPath":  "APPS/BREAKOUT/app.bin",
                      "iconPath":  "APPS/BREAKOUT/icon.raw",
                      "size":  403248,
+                     "version":  "v1.0.0",
                      "wadPath":  ""
                  },
                  {
@@ -49,6 +52,7 @@
                      "binPath":  "APPS/SHOOTER/app.bin",
                      "iconPath":  "APPS/SHOOTER/icon.raw",
                      "size":  403248,
+                     "version":  "v1.0.0",
                      "wadPath":  ""
                  },
                  {
@@ -61,6 +65,7 @@
                      "binPath":  "APPS/SNAKE/app.bin",
                      "iconPath":  "APPS/SNAKE/icon.raw",
                      "size":  402560,
+                     "version":  "v1.0.0",
                      "wadPath":  ""
                  },
                  {
@@ -73,6 +78,7 @@
                      "binPath":  "APPS/AUDIO/app.bin",
                      "iconPath":  "APPS/AUDIO/icon.raw",
                      "size":  1161872,
+                     "version":  "v1.2.5",
                      "wadPath":  ""
                  },
                  {
@@ -84,7 +90,8 @@
                      "folder":  "",
                      "binPath":  "APPS/DOOM/app.bin",
                      "iconPath":  "APPS/DOOM/icon.raw",
-                     "size":  880752,
+                     "size":  880944,
+                     "version":  "v1.2.3",
                      "wadPath":  "APPS/DOOM/DOOM.WAD"
                  }
              ]
