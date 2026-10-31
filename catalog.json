@@ -77,8 +77,8 @@
                      "folder":  "AUDIO",
                      "binPath":  "APPS/AUDIO/app.bin",
                      "iconPath":  "APPS/AUDIO/icon.raw",
-                     "size":  1161872,
-                     "version":  "v1.2.5",
+                     "size":  1109040,
+                     "version":  "v1.2.6",
                      "wadPath":  ""
                  },
                  {
@@ -90,8 +90,8 @@
                      "folder":  "",
                      "binPath":  "APPS/DOOM/app.bin",
                      "iconPath":  "APPS/DOOM/icon.raw",
-                     "size":  880944,
-                     "version":  "v1.2.3",
+                     "size":  893696,
+                     "version":  "v1.2.4",
                      "wadPath":  "APPS/DOOM/DOOM.WAD"
                  }
              ]
