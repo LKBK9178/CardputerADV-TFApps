@@ -93,6 +93,45 @@
                      "size":  893696,
                      "version":  "v1.2.4",
                      "wadPath":  "APPS/DOOM/DOOM.WAD"
+                 },
+                 {
+                     "id":  "IMU",
+                     "name":  "IMU",
+                     "type":  "传感器",
+                     "description":  "陀螺仪/加速度计姿态读数",
+                     "canOpenFiles":  false,
+                     "folder":  "",
+                     "binPath":  "APPS/IMU/app.bin",
+                     "iconPath":  "APPS/IMU/icon.raw",
+                     "size":  739296,
+                     "version":  "v1.0.0",
+                     "wadPath":  ""
+                 },
+                 {
+                     "id":  "LORA",
+                     "name":  "LORA",
+                     "type":  "通信",
+                     "description":  "LoRa 无线收发",
+                     "canOpenFiles":  false,
+                     "folder":  "",
+                     "binPath":  "APPS/LORA/app.bin",
+                     "iconPath":  "APPS/LORA/icon.raw",
+                     "size":  758784,
+                     "version":  "v1.0.0",
+                     "wadPath":  ""
+                 },
+                 {
+                     "id":  "GPS",
+                     "name":  "GPS",
+                     "type":  "导航",
+                     "description":  "GPS 定位与卫星信息",
+                     "canOpenFiles":  false,
+                     "folder":  "",
+                     "binPath":  "APPS/GPS/app.bin",
+                     "iconPath":  "APPS/GPS/icon.raw",
+                     "size":  734032,
+                     "version":  "v1.0.0",
+                     "wadPath":  ""
                  }
              ]
 }
